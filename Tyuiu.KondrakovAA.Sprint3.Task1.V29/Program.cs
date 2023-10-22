@@ -16,9 +16,9 @@ namespace Tyuiu.KondrakovAA.Sprint3.Task1.V29
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла while                                              *");
-            Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #27                                                             *");
-            Console.WriteLine("* Выполнил: Кондраков А.А | СМАРТб-23-1                                     *");
+            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Вариант #29                                                             *");
+            Console.WriteLine("* Выполнил: Кондраков А.А | СМАРТб-23-1                                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу используя цикл while, которая вычисляет произведение *");
