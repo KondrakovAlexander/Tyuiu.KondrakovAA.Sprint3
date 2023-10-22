@@ -18,7 +18,7 @@ namespace Tyuiu.KondrakovAA.Sprint3.Task0.V27
             Console.WriteLine("* Тема: Оператор цикла for                                                *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #27                                                             *");
-            Console.WriteLine("* Выполнил: Кондраков А.А | ИИПб-23-1                                     *");
+            Console.WriteLine("* Выполнил: Кондраков А.А | СМАРТб-23-1                                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу используя цикл for, которая вычисляет сумму ряда     *");
